@@ -129,7 +129,7 @@ body {
 }
 
 .intro__bg-image {
-  background: url(/images/bg-intro-mobile.svg) left 0% bottom 30% / 100%
+  background: url(./images/bg-intro-mobile.svg) left 0% bottom 30% / 100%
     no-repeat;
   margin-inline: calc(50% - 50vw);
   height: clamp(18rem, 90vw, 27rem);
@@ -364,7 +364,7 @@ footer .footer_logos {
 @media (min-width: 30rem) {
   .intro__bg-image {
     height: clamp(23rem, 80vw, 38rem);
-    background: url(/images/bg-intro-mobile.svg) left 0% bottom 40% / 100%
+    background: url(./images/bg-intro-mobile.svg) left 0% bottom 40% / 100%
       no-repeat;
     padding: 0 3rem;
   }
@@ -447,7 +447,7 @@ footer .footer_logos {
   }
 
   .intro__bg-image {
-    background: url(/images/bg-intro-desktop.svg) 12% 75% / 160% no-repeat;
+    background: url(./images/bg-intro-desktop.svg) 12% 75% / 160% no-repeat;
     height: 100%;
     padding: 0;
     overflow-x: clip;
@@ -521,7 +521,7 @@ footer .footer_logos {
   }
 
   .intro__bg-image {
-    background: url(/images/bg-intro-desktop.svg) 15% 75% / 140% no-repeat;
+    background: url(./images/bg-intro-desktop.svg) 15% 75% / 140% no-repeat;
   }
 
   .intro__mockup {
