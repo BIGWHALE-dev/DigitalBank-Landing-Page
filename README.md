@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/BIGWHALE-dev/DigitalBank-Landing-Page)
+- Live Site URL: [Digitalbank Landing page](https://digitalbank-landing-page-tan.vercel.app/)
 
 ## My process
 
