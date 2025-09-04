@@ -25,7 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot)
+![screenshot 1](./screenshot/FireShot%20Capture%20001%20-%20screenshot.png)
+![screenshot 2](./screenshot/FireShot%20Capture%20002%20-%20screenshot.png)
+![screenshot 3](./screenshot/FireShot%20Capture%20003%20-%20screenshot.png)
+![screenshot 4](./screenshot/FireShot%20Capture%20004%20-%20screenshot.png)
 
 ### Links
 
