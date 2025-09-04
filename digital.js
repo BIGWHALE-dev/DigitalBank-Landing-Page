@@ -7,12 +7,10 @@ const mobileNav = document.getElementById("mobile__nav");
 const btns = document.querySelectorAll(".request_invite");
 
 let open = false;
-
-// Functions
-function openNav() {
+function navToggle() {
   open = !open;
   if (open) {
-    hamburger.innerHTML = `&#10006;`;
+    hamburger.innerHTML = `&#10005;`;
   } else {
     hamburger.innerHTML = `<img src="./images/icon-hamburger.svg" alt="menu-icon">`;
   }
@@ -32,10 +30,10 @@ function openNav() {
 })();
 
 // event listeners
-hamburger.addEventListener("click", openNav);
+hamburger.addEventListener("click", navToggle);
 document.addEventListener("keyup", function (ev) {
   if (ev.key === "Escape" && open) {
-    openNav();
+    navToggle();
   }
 });
 
@@ -58,7 +56,7 @@ function showSection(entries) {
 }
 const sectObserver = new IntersectionObserver(showSection, {
   root: null,
-  threshold: 0.12,
+  threshold: 0.1,
 });
 
 sections.forEach(function (sect) {
