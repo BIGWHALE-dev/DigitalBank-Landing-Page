@@ -67,7 +67,7 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [resource 1](https://www.chatGPT.com) - This helped me on some overwhelming code problem. "FYI" i'm not vibe coding, I just use it when have problems coming up with some solutions in my code or need some clarifications.
+- [resource 1](https://www.chatGPT.com) - This helped me on some overwhelming code problem. "FYI" i'm not vibe coding, I just use it when I have problems coming up with some solutions in my code or need some clarifications.
 
 ## Author
 
