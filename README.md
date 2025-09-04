@@ -34,7 +34,7 @@ Users should be able to:
 
 ## My process
 
-I wrote my HTML code first, then styled it using CSS; using the mobile-fist workflow, and then completed it using Javascript for the neccessary designs...
+I wrote my HTML code first, then styled it with CSS; using mobile-fist workflow, and then completed it using Javascript for the neccessary designs...
 
 ### Built with
 
@@ -47,7 +47,7 @@ I wrote my HTML code first, then styled it using CSS; using the mobile-fist work
 
 ### What I learned
 
-This is my second coding challenge, and i really,... all T can say is that I reached a milestone in learning new styles, properties, values, attributes and tactics of coding, and I'll say it's really an achievement and a privilledge, and I'm trully happy and thankful for this. I won't lie the project is a bit hardcore, but i tackled it with all i got and all i can find, and learned a lot on the way. So thank you "Frontend Mentor" for giving me this opportunity and privillegde...🙏🙏
+This is my second coding challenge, and I really... all I can say is that I reached a milestone in learning new styles, properties, values, attributes and tactics of/for coding, and I'll say it's really an achievement and a privilege, and I'm trully happy and thankful for this. I won't lie the project is a bit hardcore, but I tackled it with all i got and all I can find, and learned a lot on the way. So thank you "Frontend Mentor" for giving me the privilege and opportunity...🙏🙏
 
 ```css
 .proud-of-this-css {
@@ -64,7 +64,7 @@ const proudOfThisFunc = () => {
 
 ### Useful resources
 
-- [resource 1](https://www.chatGPT.com) - This helped me on some overwhelming code problem. "FYI" i'm not vibe coding, i just use it when have problems coming up with some solutions in my code or need some clearifications.
+- [resource 1](https://www.chatGPT.com) - This helped me on some overwhelming code problem. "FYI" i'm not vibe coding, I just use it when have problems coming up with some solutions in my code or need some clarifications.
 
 ## Author
 
