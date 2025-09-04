@@ -37,7 +37,7 @@ Users should be able to:
 
 ## My process
 
-I wrote my HTML code first, then styled it with CSS; using mobile-fist workflow, and then completed it using Javascript for the neccessary designs...
+I wrote my HTML code first, then styled it with CSS; using mobile-first workflow, and then completed it using Javascript for the neccessary designs...
 
 ### Built with
 
